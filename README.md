@@ -8,6 +8,10 @@ Befor you run this code,you must install these packages:
   matplotlib==3.0.3
 ## How to run
 First,git clone the code:
-$ git clone git@
+
+$ git clone git@github.com/xunhui-huang/Linear-Regression-.git yourdir  --SSH协议
+$ git clone git://github.com/xunhui-huang/Linear-Regression-.git yourdir --GIT协议
+$ git clone https://github.com/xunhui-huang/Linear-Regression-.git yourdir --HTTPS协议
+
 you just run the following command in the terminal:
 % python3 linear_regression.py
