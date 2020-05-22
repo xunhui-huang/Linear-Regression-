@@ -7,5 +7,7 @@ Befor you run this code,you must install these packages:
   six==1.11.0
   matplotlib==3.0.3
 ## How to run
+First,git clone the code:
+$ git clone git@
 you just run the following command in the terminal:
 % python3 linear_regression.py
