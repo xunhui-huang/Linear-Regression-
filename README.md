@@ -2,10 +2,10 @@
 This is a simple representaion of linear regression for predicting the house price in Boston!
 ## Dependencies:
 Befor you run this code,you must install these packages:
-  tensorflow-gpu==1.10.0
-  numpy==1.14.5
-  six==1.11.0
-  matplotlib==3.0.3
+tensorflow-gpu==1.10.0 \n
+numpy==1.14.5 \n
+six==1.11.0 \n
+matplotlib==3.0.3 \n
 ## How to run
 First,git clone the code:
 
